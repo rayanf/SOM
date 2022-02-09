@@ -7,4 +7,4 @@
 
 
 
-![image](https://github.com/rayanf/SOM/blob/master/1.tsp)
+![image](https://github.com/rayanf/SOM/blob/master/1_tsp.png)
